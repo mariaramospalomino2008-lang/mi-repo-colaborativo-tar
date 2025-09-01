@@ -1,7 +1,3 @@
 Este es mi archivo inicial
 
-<<<<<<< HEAD
-Cambio realizado en local
-=======
-Cambio realizado en GitHub (rama main)
->>>>>>> 2eef25e96b85ecc8f3ae51feba26d2396c4062a0
+Cambio realizado en local y en GitHub
